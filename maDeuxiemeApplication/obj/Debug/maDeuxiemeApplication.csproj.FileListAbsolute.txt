@@ -1,0 +1,7 @@
+C:\Users\pierr\source\repos\maDeuxiemeApplication\maDeuxiemeApplication\bin\Debug\maDeuxiemeApplication.exe.config
+C:\Users\pierr\source\repos\maDeuxiemeApplication\maDeuxiemeApplication\bin\Debug\maDeuxiemeApplication.exe
+C:\Users\pierr\source\repos\maDeuxiemeApplication\maDeuxiemeApplication\bin\Debug\maDeuxiemeApplication.pdb
+C:\Users\pierr\source\repos\maDeuxiemeApplication\maDeuxiemeApplication\obj\Debug\maDeuxiemeApplication.csprojResolveAssemblyReference.cache
+C:\Users\pierr\source\repos\maDeuxiemeApplication\maDeuxiemeApplication\obj\Debug\maDeuxiemeApplication.csproj.CoreCompileInputs.cache
+C:\Users\pierr\source\repos\maDeuxiemeApplication\maDeuxiemeApplication\obj\Debug\maDeuxiemeApplication.exe
+C:\Users\pierr\source\repos\maDeuxiemeApplication\maDeuxiemeApplication\obj\Debug\maDeuxiemeApplication.pdb

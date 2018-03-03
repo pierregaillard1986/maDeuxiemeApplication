@@ -10,6 +10,7 @@ namespace maDeuxiemeApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("bonjour");
         }
     }
 }
